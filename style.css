@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    
+ }
+ h1{
+	color: #ffffff;
+	font-family: "press start 2p", "consolas", sans-serif;
+	border-top-style: dotted;
+	border-top-color: gold;
+	border-left-style: double;
+	border-left-width: 10px;
+	border-left-color: gold; 
+}
+p{
+    color: #00ff73;
+    font-family: "consolas", sans-serif;
+	font-weight: bold;
+	text-decoration: cyan;
+	font-size: 18px;	
+	border-style: dotted;
+	border-width: 5px;
+	border-color: red;
+	border-radius: 10px;
+	padding: 5px;
+
+}
